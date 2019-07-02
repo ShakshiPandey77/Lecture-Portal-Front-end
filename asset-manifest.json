@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Lecture-Portal-Front-end/static/css/main.2cce8147.chunk.css",
+    "main.js": "/Lecture-Portal-Front-end/static/js/main.5504888f.chunk.js",
+    "main.js.map": "/Lecture-Portal-Front-end/static/js/main.5504888f.chunk.js.map",
+    "runtime~main.js": "/Lecture-Portal-Front-end/static/js/runtime~main.f2dc931e.js",
+    "runtime~main.js.map": "/Lecture-Portal-Front-end/static/js/runtime~main.f2dc931e.js.map",
+    "static/js/2.b41502e9.chunk.js": "/Lecture-Portal-Front-end/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/Lecture-Portal-Front-end/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/Lecture-Portal-Front-end/index.html",
+    "precache-manifest.dda724bf8f32eef79a22eec7a093bcaa.js": "/Lecture-Portal-Front-end/precache-manifest.dda724bf8f32eef79a22eec7a093bcaa.js",
+    "service-worker.js": "/Lecture-Portal-Front-end/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/Lecture-Portal-Front-end/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/Lecture-Portal-Front-end/static/media/logo.5d5d9eef.svg"
+  }
+}
