@@ -1,1 +1,0 @@
-# Lecture-Portal-Front-end
